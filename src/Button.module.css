@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.bold {
+  font-weight: bold;
+  width: "600px";
+  height: "350px";
+}
+.italic {
+  font-style: italic;
+}
+.center {
+  text-align: center;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+.images {
+  width: 150px;
+  height: 85px;
+}
+
+.scroll {
+  width: 600px;
+  height: 150px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align: center;
+  padding: 20px;
+}
